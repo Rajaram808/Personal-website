@@ -1,0 +1,41 @@
+Rajaram Lamichhane
+IT Student | Frontend Developer | AI Video Creator
+
+Email: rajaramlamichhane0@gmail.com
+Phone: 9876567656
+Location: Nepal
+
+ABOUT
+IT student passionate about web development, UI/UX design, and AI-powered content creation.
+Building modern websites with HTML and CSS while continuously learning new technologies.
+Creating professional AI-generated videos and visual content.
+Goal: become a skilled software developer and creative digital creator.
+
+EDUCATION
+Bachelor of Science in Computer Science and Information Technology (BSc CSIT)
+Current IT Student — Nepal
+
+SKILLS
+- HTML5 (90%)
+- CSS3 (85%)
+- JavaScript (50%)
+- Responsive Web Design
+- UI Design (80%)
+- Figma (80%)
+- AI Video Creation (90%)
+- Prompt Engineering
+- Canva
+- Git & GitHub (Beginner)
+
+SERVICES
+- Website Design
+- Landing Page Development
+- AI Video Creation
+- UI/UX Design
+- Responsive Website Development
+
+EXPERIENCE
+Currently Learning:
+- Frontend Development
+- AI Content Creation
+- UI/UX Design
